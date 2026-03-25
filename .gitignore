@@ -2,6 +2,8 @@
 .vs/
 bin/
 bin-int/
+Angine/vendor/
+Angine/vendor/spdlog
 
 #files
 *.user
