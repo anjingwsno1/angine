@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="angine/angine.vcxproj" Id="d1464bf2-a931-4db1-8794-0b2aac570fdf" />
+  <Project Path="Sandbox/Sandbox.vcxproj" Id="2dd5b8fd-0b49-4774-939b-8541e568df3c" />
+</Solution>
